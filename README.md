@@ -1,2 +1,2 @@
 # sample-code
-samples of my code from various projects
+samples of my code and projects
