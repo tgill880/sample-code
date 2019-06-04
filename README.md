@@ -1,5 +1,4 @@
-## sample-code
-Samples of my code and projects.
+## Samples of my code and projects.
 
 ### barbers
 Class assigment to solve the sleeping barbers problem using threads and mutexes.
