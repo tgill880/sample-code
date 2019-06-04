@@ -1,2 +1,4 @@
-# sample-code
-samples of my code and projects
+## sample-code
+Samples of my code and projects.
+
+
