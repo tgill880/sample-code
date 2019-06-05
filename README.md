@@ -1,23 +1,23 @@
 ## sample-code
 
-### [barbers](https://github.com/tgill880/sample-code/barbers)
+### [barbers](https://github.com/tgill880/tree/master/sample-code/barbers)
 Class assigment to solve the sleeping barbers problem using threads and mutexes.
 
-### [concordance](https://github.com/tgill880/concordance)
+### [concordance](https://github.com/tgill880/tree/master/concordance)
 Class assignment to write a concordance generator.
 
-### suduko
+### [suduko](https://github.com/tgill880/tree/master/sudoku)
 Sudoku puzzle solver.
 
-### cabinet-tester
+### [cabinet-tester](https://github.com/tgill880/tree/master/cabinet-tester)
 Physics class project that used an Arduino UNO, a digital acclerometer and a power amplifier to measure the effect 
 of sound pulses on a audio speaker.
 
-### dr-razz
+### [dr-razz](https://github.com/tgill880/master/tree/dr-razz))
 User manual on the Dr Razz medical image display program I developed in the 1990s for Macintosh computers.
 
-### trlib
+### [trlib](https://github.com/tgill880/tree/master/trlib)
 A custom C trace utility I wrote to support the Dr Razz program.
 
-### Seattle Robotics presentation
+### [Seattle Robotics presentation](https://github.com/tgill880/tree/master/Seattle Robotics presentation)
 Presentation I gave to the Seattle Robotics Society about measuring speaker cabinet vibrations.
