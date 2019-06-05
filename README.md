@@ -19,5 +19,5 @@ User manual on the Dr Razz medical image display program I developed in the 1990
 ### [trlib](https://github.com/tgill880/sample-code/tree/master/master/trlib)
 A custom C trace utility I wrote to support the Dr Razz program.
 
-### [Seattle Robotics presentation](https://github.com/tgill880/sample-code/tree/master/Seattle Robotics presentation)
+### [Seattle Robotics presentation](https://github.com/tgill880/sample-code/tree/master/Seattle%20Robotics%20presentation)
 Presentation I gave to the Seattle Robotics Society about measuring speaker cabinet vibrations.
