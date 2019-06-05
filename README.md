@@ -1,7 +1,9 @@
-### barbers
+## sample-code
+
+### [barbers](https://github.com/tgill880/sample-code/barbers)
 Class assigment to solve the sleeping barbers problem using threads and mutexes.
 
-### concordance
+### [concordance](https://github.com/tgill880/concordance)
 Class assignment to write a concordance generator.
 
 ### suduko
