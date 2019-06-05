@@ -13,7 +13,7 @@ Sudoku puzzle solver.
 Physics class project that used an Arduino UNO, a digital acclerometer and a power amplifier to measure the effect 
 of sound pulses on a audio speaker.
 
-### [dr-razz](https://github.com/tgill880/master/tree/dr-razz))
+### [dr-razz](https://github.com/tgill880/master/tree/dr-razz)
 User manual on the Dr Razz medical image display program I developed in the 1990s for Macintosh computers.
 
 ### [trlib](https://github.com/tgill880/tree/master/trlib)
